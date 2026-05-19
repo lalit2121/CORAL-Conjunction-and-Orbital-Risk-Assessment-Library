@@ -1,16 +1,4 @@
-<div align="center">
-  <img src="docs/assets/cdmssa.png" alt="cdmssa.png" width="400"/>
-  <h1>CORAL: Conjunction & Orbital Risk Assessment Library</h1>
-  <p><strong>Industrial-grade CDM analysis, collision probability computation, and orbital conjunction risk visualization</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python"/>
-    <img src="https://img.shields.io/badge/C++-17-blue.svg" alt="C++17"/>
-    <img src="https://img.shields.io/badge/FastAPI-0.110+-00a393.svg" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Streamlit-1.35+-ff4b4b.svg" alt="Streamlit"/>
-    <img src="https://img.shields.io/badge/pybind11-2.13+-orange.svg" alt="pybind11"/>
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/>
-  </p>
-</div>
+
 
 ---
 
