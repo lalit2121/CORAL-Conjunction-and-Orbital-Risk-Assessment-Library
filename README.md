@@ -2,14 +2,15 @@
 ## Preview 
 ![Preview](cdmssa.png)
 ---
-# CASAS: Collision Alert & Situational Awareness System
+# CORAL Conjunction and Orbital Risk Assessment Library
+
 
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
 [![C++ Performance](https://img.shields.io/badge/Engine-C%2B%2B17-00599C?style=flat-square&logo=c%2B%2B)](https://isocpp.org/)
 [![Python Interface](https://img.shields.io/badge/Wrapper-Python%203.9+-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![Plotly Analytics](https://img.shields.io/badge/Visuals-Plotly-3F4F75?style=flat-square&logo=plotly)](https://plotly.com/)
 
-CASAS is an industrial-grade space safety platform engineered to process Conjunction Data Messages (CDMs), perform non-linear uncertainty propagation, and manage close-approach warning logs for active satellite missions.
+CORAL is an industrial-grade space safety platform engineered to process Conjunction Data Messages (CDMs), perform non-linear uncertainty propagation, and manage close-approach warning logs for active satellite missions.
 
 The platform combines a high-speed orbital mechanics engine written in **C++17 Differential Algebra (DA)** with a modern **FastAPI REST Server** and structured SQLite persistence.
 
