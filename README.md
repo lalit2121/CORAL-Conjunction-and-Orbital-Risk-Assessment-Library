@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/assets/cdmssa.png" alt="CORAL Logo" width="400"/>
+  <img src="docs/assets/cdmssa.png" alt="cdmssa.png" width="400"/>
   <h1>CORAL: Conjunction & Orbital Risk Assessment Library</h1>
   <p><strong>Industrial-grade CDM analysis, collision probability computation, and orbital conjunction risk visualization</strong></p>
   <p>
