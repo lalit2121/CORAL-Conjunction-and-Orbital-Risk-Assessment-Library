@@ -2,7 +2,7 @@
 ## Preview 
 ![Preview](cdmssa.png)
 ---
-# CORAL Conjunction and Orbital Risk Assessment Library
+# CORAL: Conjunction and Orbital Risk Assessment Library
 
 
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)
