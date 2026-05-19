@@ -1,0 +1,15 @@
+﻿{
+  "configurations": [
+    {
+      "name": "x64-Debug",
+      "generator": "Ninja",
+
+      "variables": [
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "C:/Users/Lkd/Desktop/proj/cdm/vcpkg/scripts/buildsystems/vcpkg.cmake"
+        }
+      ]
+    }
+  ]
+}
