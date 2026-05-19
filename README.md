@@ -75,29 +75,29 @@ Code snippet
 ├── Collision_Probability.py# Holds numerical risk assessment algorithms
 ├── Risk_Trend.py           # Manages alert verification and event analysis
 └── GMAT_interface.py       # Exports orbital state arrays into NASA GMAT scripts
-
+**
 ⚙️ Compilation & Environment Setup
 1. Prerequisites
-Ensure you have a C++17 compatible compiler installed (g++ or clang), alongside development headers for Python.
+Ensure you have a C++17 compatible compiler installed (g++ or clang), alongside development headers for Python.**
 
-2. Install Dependencies
+**2. Install Dependencies**
 pip install -r requirements.txt
 
-3. Compile the C++ Engine Backend
-Execute the automated build script to construct and link the native binary extension:
+**3. Compile the C++ Engine Backend
+Execute the automated build script to construct and link the native binary extension:**
 
 Bash
 bash build.sh
 
-Note: This generates a compiled shared module file inside your root folder, allowing transparent performance improvements directly inside your Python runtime.
+**Note: This generates a compiled shared module file inside your root folder, allowing transparent performance improvements directly inside your Python runtime**.
 
-🖥️ Running the Application
-To launch the backend API server locally, execute the server wrapper:
+**🖥️ Running the Application
+To launch the backend API server locally, execute the server wrapper:**
 
 Bash
 python api_server.py
 
-By default, the system boots a worker instance accessible at http://127.0.0.1:8000. You can explore and test the interactive API endpoints directly through the automated Swagger documentation portal at /docs.
+**By default, the system boots a worker instance accessible at http://127.0.0.1:8000. You can explore and test the interactive API endpoints directly through the automated Swagger documentation portal at /docs.**
 
 Route,Method,Description
 /,GET,HTML system dashboard landing view
@@ -110,5 +110,8 @@ Route,Method,Description
 /api/ingest,POST,Ingests a new CDM dataset into the database
 /api/alerts,GET,Queries active system warning items
 /api/alerts/{id}/ack,POST,Sets a warning message status to acknowledged
+
+
+
 
 
