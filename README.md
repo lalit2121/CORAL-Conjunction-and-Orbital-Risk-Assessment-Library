@@ -360,7 +360,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📜 License
 
-CORAL is released under the **MIT License**. See [LICENSE](LICENSE) for details.
+CORAL is released under the **Apache License 2.0**. See [LICENSE](LICENSE) for details.
 
 ---
 
