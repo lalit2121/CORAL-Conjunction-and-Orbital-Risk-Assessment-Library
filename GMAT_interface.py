@@ -17,7 +17,7 @@ from typing import Optional, List
 import numpy as np
 
 from CDM_parser import CDMRecord
-from Collision_Probability import PcResult, ManeuverRecommendation
+from Collision_Probability import PcResult
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -138,13 +138,13 @@ def build_chaser_state(rec, r1, v1, Q):
 # =========================================================
 # MAIN ENTRY
 # =========================================================
+# To this:
 def generate_gmat_script(
     rec: CDMRecord,
     pc: Optional[PcResult] = None,
-    mnv: Optional[ManeuverRecommendation] = None,
+    mnv = None,
     output_dir: str | Path = GMAT_OUTPUT_DIR,
 ) -> Path:
-
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
