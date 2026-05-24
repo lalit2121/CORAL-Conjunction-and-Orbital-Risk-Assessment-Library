@@ -2,6 +2,8 @@
 ## Preview 
 ![Preview](cdmssa.png)
 ## Preview 
+![Preview](CROLA_VID.mp4)
+## Preview 
 ![Preview](poster.png)
 ---
 # CORAL: Conjunction and Orbital Risk Assessment Library
