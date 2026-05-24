@@ -2,7 +2,7 @@
 ## Preview 
 ![Preview](cdmssa.png)
 ## Preview 
-![Preview](CORLA_VID.mp4)
+![Preview](CORLA_VID.gif)
 ## Preview 
 ![Preview](poster.png)
 ---
